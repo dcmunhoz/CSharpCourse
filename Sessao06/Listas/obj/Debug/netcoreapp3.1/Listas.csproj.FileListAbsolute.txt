@@ -1,0 +1,13 @@
+C:\Users\dcmun\Documents\C#\Sessao06\Listas\bin\Debug\netcoreapp3.1\Listas.exe
+C:\Users\dcmun\Documents\C#\Sessao06\Listas\bin\Debug\netcoreapp3.1\Listas.deps.json
+C:\Users\dcmun\Documents\C#\Sessao06\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.json
+C:\Users\dcmun\Documents\C#\Sessao06\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.dev.json
+C:\Users\dcmun\Documents\C#\Sessao06\Listas\bin\Debug\netcoreapp3.1\Listas.dll
+C:\Users\dcmun\Documents\C#\Sessao06\Listas\bin\Debug\netcoreapp3.1\Listas.pdb
+C:\Users\dcmun\Documents\C#\Sessao06\Listas\obj\Debug\netcoreapp3.1\Listas.csprojAssemblyReference.cache
+C:\Users\dcmun\Documents\C#\Sessao06\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfoInputs.cache
+C:\Users\dcmun\Documents\C#\Sessao06\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfo.cs
+C:\Users\dcmun\Documents\C#\Sessao06\Listas\obj\Debug\netcoreapp3.1\Listas.csproj.CoreCompileInputs.cache
+C:\Users\dcmun\Documents\C#\Sessao06\Listas\obj\Debug\netcoreapp3.1\Listas.dll
+C:\Users\dcmun\Documents\C#\Sessao06\Listas\obj\Debug\netcoreapp3.1\Listas.pdb
+C:\Users\dcmun\Documents\C#\Sessao06\Listas\obj\Debug\netcoreapp3.1\Listas.genruntimeconfig.cache

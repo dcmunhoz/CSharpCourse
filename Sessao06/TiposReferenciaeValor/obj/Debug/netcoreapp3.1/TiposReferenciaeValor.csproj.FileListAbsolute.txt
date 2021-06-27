@@ -1,0 +1,13 @@
+C:\Users\dcmun\Documents\C#\Sessao06\TiposReferenciaeValor\bin\Debug\netcoreapp3.1\TiposReferenciaeValor.exe
+C:\Users\dcmun\Documents\C#\Sessao06\TiposReferenciaeValor\bin\Debug\netcoreapp3.1\TiposReferenciaeValor.deps.json
+C:\Users\dcmun\Documents\C#\Sessao06\TiposReferenciaeValor\bin\Debug\netcoreapp3.1\TiposReferenciaeValor.runtimeconfig.json
+C:\Users\dcmun\Documents\C#\Sessao06\TiposReferenciaeValor\bin\Debug\netcoreapp3.1\TiposReferenciaeValor.runtimeconfig.dev.json
+C:\Users\dcmun\Documents\C#\Sessao06\TiposReferenciaeValor\bin\Debug\netcoreapp3.1\TiposReferenciaeValor.dll
+C:\Users\dcmun\Documents\C#\Sessao06\TiposReferenciaeValor\bin\Debug\netcoreapp3.1\TiposReferenciaeValor.pdb
+C:\Users\dcmun\Documents\C#\Sessao06\TiposReferenciaeValor\obj\Debug\netcoreapp3.1\TiposReferenciaeValor.csprojAssemblyReference.cache
+C:\Users\dcmun\Documents\C#\Sessao06\TiposReferenciaeValor\obj\Debug\netcoreapp3.1\TiposReferenciaeValor.AssemblyInfoInputs.cache
+C:\Users\dcmun\Documents\C#\Sessao06\TiposReferenciaeValor\obj\Debug\netcoreapp3.1\TiposReferenciaeValor.AssemblyInfo.cs
+C:\Users\dcmun\Documents\C#\Sessao06\TiposReferenciaeValor\obj\Debug\netcoreapp3.1\TiposReferenciaeValor.csproj.CoreCompileInputs.cache
+C:\Users\dcmun\Documents\C#\Sessao06\TiposReferenciaeValor\obj\Debug\netcoreapp3.1\TiposReferenciaeValor.dll
+C:\Users\dcmun\Documents\C#\Sessao06\TiposReferenciaeValor\obj\Debug\netcoreapp3.1\TiposReferenciaeValor.pdb
+C:\Users\dcmun\Documents\C#\Sessao06\TiposReferenciaeValor\obj\Debug\netcoreapp3.1\TiposReferenciaeValor.genruntimeconfig.cache

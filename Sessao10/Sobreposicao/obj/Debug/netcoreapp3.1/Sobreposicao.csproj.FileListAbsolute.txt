@@ -1,0 +1,13 @@
+C:\Users\dcmun\Documents\C#\Sessao10\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.exe
+C:\Users\dcmun\Documents\C#\Sessao10\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.deps.json
+C:\Users\dcmun\Documents\C#\Sessao10\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.runtimeconfig.json
+C:\Users\dcmun\Documents\C#\Sessao10\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.runtimeconfig.dev.json
+C:\Users\dcmun\Documents\C#\Sessao10\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.dll
+C:\Users\dcmun\Documents\C#\Sessao10\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.pdb
+C:\Users\dcmun\Documents\C#\Sessao10\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.csprojAssemblyReference.cache
+C:\Users\dcmun\Documents\C#\Sessao10\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.AssemblyInfoInputs.cache
+C:\Users\dcmun\Documents\C#\Sessao10\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.AssemblyInfo.cs
+C:\Users\dcmun\Documents\C#\Sessao10\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\dcmun\Documents\C#\Sessao10\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.dll
+C:\Users\dcmun\Documents\C#\Sessao10\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.pdb
+C:\Users\dcmun\Documents\C#\Sessao10\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\dcmun\Documents\C#\Sessao10\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.exe
+C:\Users\dcmun\Documents\C#\Sessao10\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.deps.json
+C:\Users\dcmun\Documents\C#\Sessao10\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.runtimeconfig.json
+C:\Users\dcmun\Documents\C#\Sessao10\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.runtimeconfig.dev.json
+C:\Users\dcmun\Documents\C#\Sessao10\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.dll
+C:\Users\dcmun\Documents\C#\Sessao10\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.pdb
+C:\Users\dcmun\Documents\C#\Sessao10\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.csprojAssemblyReference.cache
+C:\Users\dcmun\Documents\C#\Sessao10\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.AssemblyInfoInputs.cache
+C:\Users\dcmun\Documents\C#\Sessao10\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.AssemblyInfo.cs
+C:\Users\dcmun\Documents\C#\Sessao10\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.csproj.CoreCompileInputs.cache
+C:\Users\dcmun\Documents\C#\Sessao10\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.dll
+C:\Users\dcmun\Documents\C#\Sessao10\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.pdb
+C:\Users\dcmun\Documents\C#\Sessao10\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.genruntimeconfig.cache

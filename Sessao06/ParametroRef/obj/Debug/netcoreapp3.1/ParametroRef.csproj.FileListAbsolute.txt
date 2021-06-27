@@ -1,0 +1,12 @@
+C:\Users\dcmun\Documents\C#\Sessao06\ParametroRef\bin\Debug\netcoreapp3.1\ParametroRef.exe
+C:\Users\dcmun\Documents\C#\Sessao06\ParametroRef\bin\Debug\netcoreapp3.1\ParametroRef.deps.json
+C:\Users\dcmun\Documents\C#\Sessao06\ParametroRef\bin\Debug\netcoreapp3.1\ParametroRef.runtimeconfig.json
+C:\Users\dcmun\Documents\C#\Sessao06\ParametroRef\bin\Debug\netcoreapp3.1\ParametroRef.runtimeconfig.dev.json
+C:\Users\dcmun\Documents\C#\Sessao06\ParametroRef\bin\Debug\netcoreapp3.1\ParametroRef.dll
+C:\Users\dcmun\Documents\C#\Sessao06\ParametroRef\bin\Debug\netcoreapp3.1\ParametroRef.pdb
+C:\Users\dcmun\Documents\C#\Sessao06\ParametroRef\obj\Debug\netcoreapp3.1\ParametroRef.AssemblyInfoInputs.cache
+C:\Users\dcmun\Documents\C#\Sessao06\ParametroRef\obj\Debug\netcoreapp3.1\ParametroRef.AssemblyInfo.cs
+C:\Users\dcmun\Documents\C#\Sessao06\ParametroRef\obj\Debug\netcoreapp3.1\ParametroRef.csproj.CoreCompileInputs.cache
+C:\Users\dcmun\Documents\C#\Sessao06\ParametroRef\obj\Debug\netcoreapp3.1\ParametroRef.dll
+C:\Users\dcmun\Documents\C#\Sessao06\ParametroRef\obj\Debug\netcoreapp3.1\ParametroRef.pdb
+C:\Users\dcmun\Documents\C#\Sessao06\ParametroRef\obj\Debug\netcoreapp3.1\ParametroRef.genruntimeconfig.cache

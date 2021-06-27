@@ -1,0 +1,13 @@
+C:\Users\dcmun\Documents\Sessao08\Enumeradores\bin\Debug\netcoreapp3.1\Enumeradores.exe
+C:\Users\dcmun\Documents\Sessao08\Enumeradores\bin\Debug\netcoreapp3.1\Enumeradores.deps.json
+C:\Users\dcmun\Documents\Sessao08\Enumeradores\bin\Debug\netcoreapp3.1\Enumeradores.runtimeconfig.json
+C:\Users\dcmun\Documents\Sessao08\Enumeradores\bin\Debug\netcoreapp3.1\Enumeradores.runtimeconfig.dev.json
+C:\Users\dcmun\Documents\Sessao08\Enumeradores\bin\Debug\netcoreapp3.1\Enumeradores.dll
+C:\Users\dcmun\Documents\Sessao08\Enumeradores\bin\Debug\netcoreapp3.1\Enumeradores.pdb
+C:\Users\dcmun\Documents\Sessao08\Enumeradores\obj\Debug\netcoreapp3.1\Enumeradores.csprojAssemblyReference.cache
+C:\Users\dcmun\Documents\Sessao08\Enumeradores\obj\Debug\netcoreapp3.1\Enumeradores.AssemblyInfoInputs.cache
+C:\Users\dcmun\Documents\Sessao08\Enumeradores\obj\Debug\netcoreapp3.1\Enumeradores.AssemblyInfo.cs
+C:\Users\dcmun\Documents\Sessao08\Enumeradores\obj\Debug\netcoreapp3.1\Enumeradores.csproj.CoreCompileInputs.cache
+C:\Users\dcmun\Documents\Sessao08\Enumeradores\obj\Debug\netcoreapp3.1\Enumeradores.dll
+C:\Users\dcmun\Documents\Sessao08\Enumeradores\obj\Debug\netcoreapp3.1\Enumeradores.pdb
+C:\Users\dcmun\Documents\Sessao08\Enumeradores\obj\Debug\netcoreapp3.1\Enumeradores.genruntimeconfig.cache

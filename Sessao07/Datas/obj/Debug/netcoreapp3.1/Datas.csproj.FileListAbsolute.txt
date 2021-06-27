@@ -1,0 +1,13 @@
+C:\Users\dcmun\Documents\C#\Sessao07\Datas\bin\Debug\netcoreapp3.1\Datas.exe
+C:\Users\dcmun\Documents\C#\Sessao07\Datas\bin\Debug\netcoreapp3.1\Datas.deps.json
+C:\Users\dcmun\Documents\C#\Sessao07\Datas\bin\Debug\netcoreapp3.1\Datas.runtimeconfig.json
+C:\Users\dcmun\Documents\C#\Sessao07\Datas\bin\Debug\netcoreapp3.1\Datas.runtimeconfig.dev.json
+C:\Users\dcmun\Documents\C#\Sessao07\Datas\bin\Debug\netcoreapp3.1\Datas.dll
+C:\Users\dcmun\Documents\C#\Sessao07\Datas\bin\Debug\netcoreapp3.1\Datas.pdb
+C:\Users\dcmun\Documents\C#\Sessao07\Datas\obj\Debug\netcoreapp3.1\Datas.AssemblyInfoInputs.cache
+C:\Users\dcmun\Documents\C#\Sessao07\Datas\obj\Debug\netcoreapp3.1\Datas.AssemblyInfo.cs
+C:\Users\dcmun\Documents\C#\Sessao07\Datas\obj\Debug\netcoreapp3.1\Datas.csproj.CoreCompileInputs.cache
+C:\Users\dcmun\Documents\C#\Sessao07\Datas\obj\Debug\netcoreapp3.1\Datas.dll
+C:\Users\dcmun\Documents\C#\Sessao07\Datas\obj\Debug\netcoreapp3.1\Datas.pdb
+C:\Users\dcmun\Documents\C#\Sessao07\Datas\obj\Debug\netcoreapp3.1\Datas.genruntimeconfig.cache
+C:\Users\dcmun\Documents\C#\Sessao07\Datas\obj\Debug\netcoreapp3.1\Datas.csprojAssemblyReference.cache

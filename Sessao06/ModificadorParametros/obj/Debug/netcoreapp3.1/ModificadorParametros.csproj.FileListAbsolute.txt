@@ -1,0 +1,13 @@
+C:\Users\dcmun\Documents\C#\Sessao06\ModificadorParametros\bin\Debug\netcoreapp3.1\ModificadorParametros.exe
+C:\Users\dcmun\Documents\C#\Sessao06\ModificadorParametros\bin\Debug\netcoreapp3.1\ModificadorParametros.deps.json
+C:\Users\dcmun\Documents\C#\Sessao06\ModificadorParametros\bin\Debug\netcoreapp3.1\ModificadorParametros.runtimeconfig.json
+C:\Users\dcmun\Documents\C#\Sessao06\ModificadorParametros\bin\Debug\netcoreapp3.1\ModificadorParametros.runtimeconfig.dev.json
+C:\Users\dcmun\Documents\C#\Sessao06\ModificadorParametros\bin\Debug\netcoreapp3.1\ModificadorParametros.dll
+C:\Users\dcmun\Documents\C#\Sessao06\ModificadorParametros\bin\Debug\netcoreapp3.1\ModificadorParametros.pdb
+C:\Users\dcmun\Documents\C#\Sessao06\ModificadorParametros\obj\Debug\netcoreapp3.1\ModificadorParametros.AssemblyInfoInputs.cache
+C:\Users\dcmun\Documents\C#\Sessao06\ModificadorParametros\obj\Debug\netcoreapp3.1\ModificadorParametros.AssemblyInfo.cs
+C:\Users\dcmun\Documents\C#\Sessao06\ModificadorParametros\obj\Debug\netcoreapp3.1\ModificadorParametros.csproj.CoreCompileInputs.cache
+C:\Users\dcmun\Documents\C#\Sessao06\ModificadorParametros\obj\Debug\netcoreapp3.1\ModificadorParametros.dll
+C:\Users\dcmun\Documents\C#\Sessao06\ModificadorParametros\obj\Debug\netcoreapp3.1\ModificadorParametros.pdb
+C:\Users\dcmun\Documents\C#\Sessao06\ModificadorParametros\obj\Debug\netcoreapp3.1\ModificadorParametros.genruntimeconfig.cache
+C:\Users\dcmun\Documents\C#\Sessao06\ModificadorParametros\obj\Debug\netcoreapp3.1\ModificadorParametros.csprojAssemblyReference.cache
