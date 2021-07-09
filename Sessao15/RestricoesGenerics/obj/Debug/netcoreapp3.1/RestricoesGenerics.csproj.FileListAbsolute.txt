@@ -1,0 +1,13 @@
+C:\Users\dcmun\source\repos\Sessao15\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.exe
+C:\Users\dcmun\source\repos\Sessao15\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.deps.json
+C:\Users\dcmun\source\repos\Sessao15\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.runtimeconfig.json
+C:\Users\dcmun\source\repos\Sessao15\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.runtimeconfig.dev.json
+C:\Users\dcmun\source\repos\Sessao15\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.dll
+C:\Users\dcmun\source\repos\Sessao15\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.pdb
+C:\Users\dcmun\source\repos\Sessao15\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.csprojAssemblyReference.cache
+C:\Users\dcmun\source\repos\Sessao15\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.AssemblyInfoInputs.cache
+C:\Users\dcmun\source\repos\Sessao15\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.AssemblyInfo.cs
+C:\Users\dcmun\source\repos\Sessao15\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.csproj.CoreCompileInputs.cache
+C:\Users\dcmun\source\repos\Sessao15\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.dll
+C:\Users\dcmun\source\repos\Sessao15\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.pdb
+C:\Users\dcmun\source\repos\Sessao15\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.genruntimeconfig.cache

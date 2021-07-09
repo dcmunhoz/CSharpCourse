@@ -1,0 +1,12 @@
+C:\Users\dcmun\source\repos\Sessao15\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.exe
+C:\Users\dcmun\source\repos\Sessao15\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.deps.json
+C:\Users\dcmun\source\repos\Sessao15\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.runtimeconfig.json
+C:\Users\dcmun\source\repos\Sessao15\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.runtimeconfig.dev.json
+C:\Users\dcmun\source\repos\Sessao15\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.dll
+C:\Users\dcmun\source\repos\Sessao15\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.pdb
+C:\Users\dcmun\source\repos\Sessao15\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.AssemblyInfoInputs.cache
+C:\Users\dcmun\source\repos\Sessao15\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.AssemblyInfo.cs
+C:\Users\dcmun\source\repos\Sessao15\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\dcmun\source\repos\Sessao15\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.dll
+C:\Users\dcmun\source\repos\Sessao15\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.pdb
+C:\Users\dcmun\source\repos\Sessao15\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.genruntimeconfig.cache

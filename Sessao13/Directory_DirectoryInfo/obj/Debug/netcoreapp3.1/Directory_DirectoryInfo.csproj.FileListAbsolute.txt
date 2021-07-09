@@ -1,0 +1,12 @@
+C:\Users\dcmun\source\repos\Sessao13\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.exe
+C:\Users\dcmun\source\repos\Sessao13\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.deps.json
+C:\Users\dcmun\source\repos\Sessao13\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.runtimeconfig.json
+C:\Users\dcmun\source\repos\Sessao13\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.runtimeconfig.dev.json
+C:\Users\dcmun\source\repos\Sessao13\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.dll
+C:\Users\dcmun\source\repos\Sessao13\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.pdb
+C:\Users\dcmun\source\repos\Sessao13\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\dcmun\source\repos\Sessao13\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.AssemblyInfo.cs
+C:\Users\dcmun\source\repos\Sessao13\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\dcmun\source\repos\Sessao13\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.dll
+C:\Users\dcmun\source\repos\Sessao13\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.pdb
+C:\Users\dcmun\source\repos\Sessao13\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.genruntimeconfig.cache

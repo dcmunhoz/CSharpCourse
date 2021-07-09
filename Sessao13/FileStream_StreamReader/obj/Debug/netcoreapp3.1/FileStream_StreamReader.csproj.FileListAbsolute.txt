@@ -1,0 +1,12 @@
+C:\Users\dcmun\source\repos\Sessao13\FileStream_StreamReader\bin\Debug\netcoreapp3.1\FileStream_StreamReader.exe
+C:\Users\dcmun\source\repos\Sessao13\FileStream_StreamReader\bin\Debug\netcoreapp3.1\FileStream_StreamReader.deps.json
+C:\Users\dcmun\source\repos\Sessao13\FileStream_StreamReader\bin\Debug\netcoreapp3.1\FileStream_StreamReader.runtimeconfig.json
+C:\Users\dcmun\source\repos\Sessao13\FileStream_StreamReader\bin\Debug\netcoreapp3.1\FileStream_StreamReader.runtimeconfig.dev.json
+C:\Users\dcmun\source\repos\Sessao13\FileStream_StreamReader\bin\Debug\netcoreapp3.1\FileStream_StreamReader.dll
+C:\Users\dcmun\source\repos\Sessao13\FileStream_StreamReader\bin\Debug\netcoreapp3.1\FileStream_StreamReader.pdb
+C:\Users\dcmun\source\repos\Sessao13\FileStream_StreamReader\obj\Debug\netcoreapp3.1\FileStream_StreamReader.AssemblyInfoInputs.cache
+C:\Users\dcmun\source\repos\Sessao13\FileStream_StreamReader\obj\Debug\netcoreapp3.1\FileStream_StreamReader.AssemblyInfo.cs
+C:\Users\dcmun\source\repos\Sessao13\FileStream_StreamReader\obj\Debug\netcoreapp3.1\FileStream_StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\dcmun\source\repos\Sessao13\FileStream_StreamReader\obj\Debug\netcoreapp3.1\FileStream_StreamReader.dll
+C:\Users\dcmun\source\repos\Sessao13\FileStream_StreamReader\obj\Debug\netcoreapp3.1\FileStream_StreamReader.pdb
+C:\Users\dcmun\source\repos\Sessao13\FileStream_StreamReader\obj\Debug\netcoreapp3.1\FileStream_StreamReader.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\dcmun\source\repos\Sessao13\Path\bin\Debug\netcoreapp3.1\Path.exe
+C:\Users\dcmun\source\repos\Sessao13\Path\bin\Debug\netcoreapp3.1\Path.deps.json
+C:\Users\dcmun\source\repos\Sessao13\Path\bin\Debug\netcoreapp3.1\Path.runtimeconfig.json
+C:\Users\dcmun\source\repos\Sessao13\Path\bin\Debug\netcoreapp3.1\Path.runtimeconfig.dev.json
+C:\Users\dcmun\source\repos\Sessao13\Path\bin\Debug\netcoreapp3.1\Path.dll
+C:\Users\dcmun\source\repos\Sessao13\Path\bin\Debug\netcoreapp3.1\Path.pdb
+C:\Users\dcmun\source\repos\Sessao13\Path\obj\Debug\netcoreapp3.1\Path.AssemblyInfoInputs.cache
+C:\Users\dcmun\source\repos\Sessao13\Path\obj\Debug\netcoreapp3.1\Path.AssemblyInfo.cs
+C:\Users\dcmun\source\repos\Sessao13\Path\obj\Debug\netcoreapp3.1\Path.csproj.CoreCompileInputs.cache
+C:\Users\dcmun\source\repos\Sessao13\Path\obj\Debug\netcoreapp3.1\Path.dll
+C:\Users\dcmun\source\repos\Sessao13\Path\obj\Debug\netcoreapp3.1\Path.pdb
+C:\Users\dcmun\source\repos\Sessao13\Path\obj\Debug\netcoreapp3.1\Path.genruntimeconfig.cache

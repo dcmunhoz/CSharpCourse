@@ -1,0 +1,12 @@
+C:\Users\dcmun\source\repos\Sessao15\GetHashCodeEquals\bin\Debug\netcoreapp3.1\GetHashCodeEquals.exe
+C:\Users\dcmun\source\repos\Sessao15\GetHashCodeEquals\bin\Debug\netcoreapp3.1\GetHashCodeEquals.deps.json
+C:\Users\dcmun\source\repos\Sessao15\GetHashCodeEquals\bin\Debug\netcoreapp3.1\GetHashCodeEquals.runtimeconfig.json
+C:\Users\dcmun\source\repos\Sessao15\GetHashCodeEquals\bin\Debug\netcoreapp3.1\GetHashCodeEquals.runtimeconfig.dev.json
+C:\Users\dcmun\source\repos\Sessao15\GetHashCodeEquals\bin\Debug\netcoreapp3.1\GetHashCodeEquals.dll
+C:\Users\dcmun\source\repos\Sessao15\GetHashCodeEquals\bin\Debug\netcoreapp3.1\GetHashCodeEquals.pdb
+C:\Users\dcmun\source\repos\Sessao15\GetHashCodeEquals\obj\Debug\netcoreapp3.1\GetHashCodeEquals.AssemblyInfoInputs.cache
+C:\Users\dcmun\source\repos\Sessao15\GetHashCodeEquals\obj\Debug\netcoreapp3.1\GetHashCodeEquals.AssemblyInfo.cs
+C:\Users\dcmun\source\repos\Sessao15\GetHashCodeEquals\obj\Debug\netcoreapp3.1\GetHashCodeEquals.csproj.CoreCompileInputs.cache
+C:\Users\dcmun\source\repos\Sessao15\GetHashCodeEquals\obj\Debug\netcoreapp3.1\GetHashCodeEquals.dll
+C:\Users\dcmun\source\repos\Sessao15\GetHashCodeEquals\obj\Debug\netcoreapp3.1\GetHashCodeEquals.pdb
+C:\Users\dcmun\source\repos\Sessao15\GetHashCodeEquals\obj\Debug\netcoreapp3.1\GetHashCodeEquals.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\dcmun\source\repos\Sessao17\DemoLinq1\bin\Debug\netcoreapp3.1\DemoLinq1.exe
+C:\Users\dcmun\source\repos\Sessao17\DemoLinq1\bin\Debug\netcoreapp3.1\DemoLinq1.deps.json
+C:\Users\dcmun\source\repos\Sessao17\DemoLinq1\bin\Debug\netcoreapp3.1\DemoLinq1.runtimeconfig.json
+C:\Users\dcmun\source\repos\Sessao17\DemoLinq1\bin\Debug\netcoreapp3.1\DemoLinq1.runtimeconfig.dev.json
+C:\Users\dcmun\source\repos\Sessao17\DemoLinq1\bin\Debug\netcoreapp3.1\DemoLinq1.dll
+C:\Users\dcmun\source\repos\Sessao17\DemoLinq1\bin\Debug\netcoreapp3.1\DemoLinq1.pdb
+C:\Users\dcmun\source\repos\Sessao17\DemoLinq1\obj\Debug\netcoreapp3.1\DemoLinq1.AssemblyInfoInputs.cache
+C:\Users\dcmun\source\repos\Sessao17\DemoLinq1\obj\Debug\netcoreapp3.1\DemoLinq1.AssemblyInfo.cs
+C:\Users\dcmun\source\repos\Sessao17\DemoLinq1\obj\Debug\netcoreapp3.1\DemoLinq1.csproj.CoreCompileInputs.cache
+C:\Users\dcmun\source\repos\Sessao17\DemoLinq1\obj\Debug\netcoreapp3.1\DemoLinq1.dll
+C:\Users\dcmun\source\repos\Sessao17\DemoLinq1\obj\Debug\netcoreapp3.1\DemoLinq1.pdb
+C:\Users\dcmun\source\repos\Sessao17\DemoLinq1\obj\Debug\netcoreapp3.1\DemoLinq1.genruntimeconfig.cache
+C:\Users\dcmun\source\repos\Sessao17\DemoLinq1\obj\Debug\netcoreapp3.1\DemoLinq1.csprojAssemblyReference.cache
